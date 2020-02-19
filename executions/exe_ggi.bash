@@ -7,5 +7,5 @@ gnome-terminal \
     $tab 'roscore'\
     $tab 'bash -c "sleep 1.0 ; ./minimal.launch.bash"'\
     $tab 'bash -c "sleep 1.2 ; ./3dsensor.launch.bash"'\
-    $tab 'bash -c "sleep 1.6 ; ./ggi_launcher.sh"'\
-    $tab 'bash -c "sleep 1.6 ; ./common_pkg.launch.bash"'\
+    $tab 'bash -c "sleep 1.2 ; ./ggi_launcher.sh"'\
+    $tab 'bash -c "sleep 1.4 ; ./ggi_common.launch.bash"'\
