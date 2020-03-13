@@ -11,4 +11,4 @@ gnome-terminal \
     $tab 'bash -c "sleep 1.5 ; ./view_navigation.launch.bash"'\
     $tab 'bash -c "sleep 1.0 ; ./sp_ggi.launch.bash"'\
     $tab 'bash -c "sleep 1.5 ; ./map_creation.launch.bash"'\
-    $tab 'bash -c "sleep 1.5 ; ./teleop.launch.bash"'\
+    $tab 'bash -c "sleep 1.5 ; ./ps3_control.launch.bash"'\
